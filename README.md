@@ -216,5 +216,5 @@ For production hardening, the report recommends continued detection tuning, fals
 
 ---
 
-**Project type:** Authorized security lab / portfolio project  
+**Project type:** Authorized security lab / internship work 
 **Primary focus:** SIEM deployment, Linux security monitoring, detection engineering, virtualization and network security
